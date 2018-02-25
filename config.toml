@@ -103,6 +103,7 @@ defaultContentLanguageInSubdir = false
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
+  
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -177,6 +178,7 @@ defaultContentLanguageInSubdir = false
   [params.talks]
     # Show talk time?
     time = true
+    
 
   # Configuration of publication pages.
   [params.publications]
