@@ -12,6 +12,23 @@ weight = 5
   interests = [
     "Statistics"
   ]
+  
+  
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD Candidate in Statistics"
+  institution = "Iowa State University"
+  year = 2018
+
+[[education.courses]]
+  course = "MPP/MA in Public Policy and Applied Statistics"
+  institution = "University of Michigan"
+  year = 2010
+
+[[education.courses]]
+  course = "BA in French"
+  institution = "Middlebury College"
+  year = 2005
 
 +++
 
