@@ -24,12 +24,12 @@ weight = 5
 [[education.courses]]
   course = "MPP/MA in Public Policy and Applied Statistics"
   institution = "University of Michigan"
-#  year = 2010
+  year = 2010
 
 [[education.courses]]
   course = "BA in French"
   institution = "Middlebury College"
-#  year = 2005
+  year = 2005
  
 +++
 
