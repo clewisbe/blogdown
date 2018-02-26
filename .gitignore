@@ -1,5 +1,4 @@
 /public
-.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
@@ -7,4 +6,4 @@ public
 static/figures
 /*_cache/
 /cache/
-.Rproj.user
+.Rproj.user/**
