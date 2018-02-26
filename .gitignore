@@ -1,16 +1,2 @@
-_site
-.sass-cache
+public
 .Rproj.user
-*.Rhistory
-.RData
-.Rhistory
-*.aux
-*.log
-*.out
-*.synctex.gz
-.DS_Store
-*/.DS_Store
-*/public
-content/post/*.html
-_cache/
-drafts/
