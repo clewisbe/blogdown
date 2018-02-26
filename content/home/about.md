@@ -10,9 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Agricultural Statistics",
-    "Hierarchical Models",
-    "Spatial Statistics"
+    "Agricultural Statistics"
   ]
   
   
