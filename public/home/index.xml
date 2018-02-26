@@ -22,33 +22,6 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -58,31 +31,13 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description> This is an example of using the custom widget to create your own homepage section. I am a teaching instructor for the following courses at Iowa State:
+      <description>I am a teaching instructor for the following courses at Iowa State:
  STAT 231A: Probability for Engineers  </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -92,15 +47,6 @@
       
       <guid>/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/home/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/about/</guid>
-      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() {hljs.initHighlighting();}, 0);}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.table th:not([align]) {text-align: left;}.</description>
     </item>
     
   </channel>
