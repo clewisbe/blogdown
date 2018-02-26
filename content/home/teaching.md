@@ -18,5 +18,5 @@ weight = 60
 
 I am a teaching instructor for the following courses at Iowa State:
 
-- STAT 231A: Probability for Engineers 
+- STAT 231A: Probability for Engineers
 
