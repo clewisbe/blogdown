@@ -1,8 +1,9 @@
 /public
-.Rproj.user
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 public
 static/figures
-blogdown
+/*_cache/
+/cache/
