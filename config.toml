@@ -238,6 +238,11 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+  [[menu.main]]
+    name = "CV"
+    url = "/pdf/CV_CLB.pdf"
+    weight = 2
 
 #[[menu.main]]
 #  name = "Publications"
