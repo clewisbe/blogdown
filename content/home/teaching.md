@@ -16,7 +16,7 @@ weight = 60
 +++
 
 
-I am a teaching instructor for the following courses at Iowa State:
+I am a teaching instructor for the following courses at the University of Iowa:
 
-- STAT 231A: Probability for Engineers
+- STAT 1010 & 3100 : Statistics and Society, and Mathematical Statistics I
 
