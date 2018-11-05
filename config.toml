@@ -52,16 +52,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Colin Lewis-Beck"
-  role = "Graduate Student"
+  role = "Visiting Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Iowa State University", url = "" } ]
+  organizations = [ { name = "University of Iowa", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "clewisbe@iastate.edu"
-  address = "Iowa State University"
+  email = "colin-lewis-beck@uiowa.edu"
+  address = "University of Iowa"
   office_hours = "Email for appointment"
   phone = "617-784-3596"
   skype = "clewisbe"
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:clewisbe@iastate.edu"
+    link = "mailto:colin-lewis-beck@uiowa.edu"
 
 
   [[params.social]]
