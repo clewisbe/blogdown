@@ -16,7 +16,7 @@ weight = 60
 +++
 
 
-I am a teaching instructor for the following courses at the University of Iowain Spring 2020:
+I am a teaching instructor for the following courses at the University of Iowa in Spring 2020:
 
-- STAT 1010 & 3101 : Statistics and Society, and Mathematical Statistics 2
+- STAT 1010 & 3101 : Statistics and Society, and Mathematical Statistics II
 
