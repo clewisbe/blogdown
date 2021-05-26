@@ -15,7 +15,5 @@ weight = 60
 
 +++
 
-# I am an instructor for the following courses at the University of Iowa in Spring 2021:
-# 
-# - STAT 1010 & 1020 : Statistics and Society, and Elementary Statistics
+
 
