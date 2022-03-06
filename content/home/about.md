@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-Colin is from Iowa City, Iowa.
+I am a statistician in the life sciences industry.  I grew up in Iowa City, Iowa. Outside of statistics, I enjoy reading Victorian literature, running, and spending time in Vermont.
 
 

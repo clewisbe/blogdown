@@ -1,5 +1,5 @@
 /public
-*.Rhistory
+.Rhistory
 .RData
 .Ruserdata
 public
