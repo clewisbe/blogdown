@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Reliability",
     "Bayesian Methods",
-    "Public Policy"
+    "Causal Inference",
+    "Machine Learning"
   ]
   
   
