@@ -13,23 +13,25 @@ weight = 5
     "Reliability",
     "Bayesian Methods",
     "Causal Inference",
+    "Prediction",
+    "Compuational Statistics",
     "Machine Learning"
   ]
   
   
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics"
+  course = "Ph.D. in Statistics"
   institution = "Iowa State University"
   year = 2018
 
 [[education.courses]]
-  course = "MPP/MA in Public Policy and Applied Statistics"
+  course = "M.A./M.P.P. in Applied Statistics and Public Policy"
   institution = "University of Michigan"
   year = 2010
 
 [[education.courses]]
-  course = "BA in French"
+  course = "B.A. in French"
   institution = "Middlebury College"
   year = 2005
 
