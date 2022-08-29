@@ -13,9 +13,7 @@ weight = 5
     "Reliability",
     "Bayesian Methods",
     "Causal Inference",
-    "Prediction",
-    "Compuational Statistics",
-    "Machine Learning"
+    "Computational Statistics"
   ]
   
   
@@ -39,6 +37,6 @@ weight = 5
 
 # Biography
 
-I am a statistician in the life sciences industry.  I grew up in Iowa City, Iowa. Outside of statistics, I enjoy reading Victorian literature, running, and spending time in Vermont.
+I grew up in Iowa City, Iowa. Outside of statistics, I enjoy reading Victorian literature, running, and spending time in Vermont.
 
 
