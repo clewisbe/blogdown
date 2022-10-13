@@ -52,11 +52,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Colin Lewis-Beck"
-  role = "Research Scientist (Statistics)"
+  role = "Research Scientist II, Next Science)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Eli Lilly", url = "" } ]
+  organizations = [ { name = "Amazon", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
