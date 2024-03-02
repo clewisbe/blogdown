@@ -52,11 +52,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Colin Lewis-Beck"
-  role = "Research Scientist II"
+  role = "Data Scientist - Research"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Amazon", url = "" } ]
+  organizations = [ { name = "Google", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -224,6 +224,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/clewisbe"
+    
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=0F3oDfsAAAAJ&hl=en"
 
 
 # Navigation Links
