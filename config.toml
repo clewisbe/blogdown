@@ -220,10 +220,10 @@ defaultContentLanguageInSubdir = false
     link = "mailto:clewisbeck@gmail.com"
 
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/clewisbe"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa"
+  #  link = "//github.com/clewisbe"
     
   [[params.social]]
     icon = "google-scholar"
