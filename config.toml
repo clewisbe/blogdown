@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   #address = "University of Iowa"
   #office_hours = "Email for appointment"
   phone = "617-784-3596"
-  skype = "clewisbe"
+  #skype = "clewisbe"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
