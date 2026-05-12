@@ -13,7 +13,8 @@ title = "Academic"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-tools = ["hugo-extended@1.0.0"]
+[tools]
+"aqua:gohugoio/hugo/hugo" = "0.30"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
