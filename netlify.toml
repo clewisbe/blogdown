@@ -1,2 +1,4 @@
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.30"
+  HUGO_VERSION = "0.111.3"   # pick a recent stable version
+  HUGO_EXTENDED = "true"
+  HUGO_ENV = "production"
