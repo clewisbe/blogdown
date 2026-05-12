@@ -1,2 +1,7 @@
-[context.deploy-preview.environment]
+[build]
+  publish = "public"
+  command = "hugo"
+
+[build.environment]
   HUGO_VERSION = "0.116.0"
+  # If you require the extended binary, set HUGO_ENABLE_EXTENDED = "true" in Netlify UI or here
