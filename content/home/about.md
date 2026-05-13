@@ -10,33 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Reliability",
-    "Bayesian Methods",
-    "Causal Inference",
-    "Computational Statistics"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
-  
-  
+
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Statistics"
-  institution = "Iowa State University"
-  year = 2018
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
 
 [[education.courses]]
-  course = "M.A./M.P.P. in Applied Statistics and Public Policy"
-  institution = "University of Michigan"
-  year = 2010
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
 
 [[education.courses]]
-  course = "B.A. in French"
-  institution = "Middlebury College"
-  year = 2005
-
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
 # Biography
 
-I grew up in Iowa City, Iowa. Outside of statistics, I enjoy reading Victorian literature, running, and spending time in Vermont.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
